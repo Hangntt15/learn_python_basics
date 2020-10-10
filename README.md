@@ -1,2 +1,2 @@
-# learn_python_basisc
+# learn_python_basics
 Practices
